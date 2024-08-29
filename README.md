@@ -1,23 +1,25 @@
-# TÍTULO DO PROJETO
+# Quebra Galho
+`CURSO - Análise e Desenvolvimento de Sistemas`
 
-`CURSO`
+`DISCIPLINA - Projeto: Desenvolvimento de uma Aplicação Móvel em um Ambiente de Negócio - Eixo 3 - Turma 06 - 2024/2`
 
-`DISCIPLINA`
+`2º SEMESTRE - Eixo 3`
 
-`SEMESTRE`
-
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O QG consiste em um sistema de empréstimos, este sistema facilitará na busca de itens específicos e quesão,
+muitas vezes, necessários em seu cotidiano, como um carregador ou algum cabo.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Luiz Fernando Almeida 
+* Igor Fonseca Amorim
+* João Pedro Menezes Matias da Silva
+* Lorrayne Victoria Caliari Machado
+* Thiago Singulano Machado
+* Thiago Luiz Clemente
 
 ## Orientador
 
-* Nome completo do professor 1
+Sinaide Nunes Bezerra
 
 ## Instruções de utilização
 
