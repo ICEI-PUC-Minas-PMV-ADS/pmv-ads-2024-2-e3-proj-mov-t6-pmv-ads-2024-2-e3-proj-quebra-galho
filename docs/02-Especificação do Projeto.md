@@ -79,15 +79,25 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| O sistema deve permitir que o usuário efetue o login ou cadastre-se. | ALTA | 
+|RF-002| Tela carregada após o login, ela deve conter uma listagem de itens dando preferência aos pedidos de amigos.   | BAIXA |
+|RF-003| O sistema deve permitir que o usuário faça um pedido por empréstimo, especificando uma localização específica (uma seleção de prédios), a categoria do item,  qual o item de fato e um preço   | ALTA |
+|RF-004| O sistema deve permitir que o usuário atenda um pedido.   | ALTA |
+|RF-005| O sistema deve redirecionar o usuário para um serviço de chat externo.   | ALTA |
+|RF-006| O sistema deve permitir que o usuário adicione outros usuários como amigos.   | MÉDIA |
+|RF-007| O sistema deve permitir que o usuário edite seu próprio perfil.   | ALTA |
+|RF-008| Ao finalizar um empréstimo, o sistema deve permitir que os usuários avaliem uns aos outros com uma avaliação positiva ou negativa. Caso seja uma negativa, o usuário deve informar um motivo.   | ALTA |
+|RF-009| O sistema deve mostrar uma notificação quando existir um ou mais pedidos ativos e/ou solicitações de amizade.    | BAIXA |
+|RF-010| O sistema, durante as datas comemorativas (como Natal, Halloween, Páscoa), deve ter o tema do leiaute alterado, se adaptando a cada uma delas.   | BAIXA |
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| O carregamento da tela não deve demorar mais que 1,5 segundos. | ALTA | 
+|RNF-002| Os servidores devem estar operantes no mínimo das 6:00 até as 00:00. |  BAIXA | 
+|RNF-003| O sistema deve armazenar os dados de cadastro e login do usuário, além das relações de amizade entre os usuários. |  ALTA | 
+|RNF-004| O sistema deverá ter uma funcionalidade que possibilitará o usuário que fez o pedido e o usuário que atenderá o pedido se comunicarem, através de um chat externo, sendo esse o WhatsApp. |  ALTA | 
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
