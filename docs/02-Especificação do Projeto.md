@@ -8,13 +8,13 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
-|NOME| IDADE |OCUPAÇÃO|PROBLEMAS/FRUSTAÇÕES|METAS|
-|----|-------|--------|--------------------|-----|
-| Mariana Silva | 21 Anos |Estudante de Engenharia de Computação | A dificuldade em encontrar carregadores e cabos quando mais precisa. | Garantir acesso rápido a carregadores e cabos USB sem ter que comprar novos constantemente. |
-| Lucas Pereira | 24 Anos | Estudante de Administração de Empresas | Não encontrar pen drives e adaptadores quando necessário, afetando suas apresentações. | Ter pen drives, adaptadores e grampeadores disponíveis para reuniões e apresentações sem imprevistos. |
-| Ana Costa | 22 Anos |Estudante de Design Gráfico | Falta de adaptadores e corretivos, impactando sua capacidade de completar projetos a tempo. | Facilitar o acesso a adaptadores e corretivos para manter a continuidade do trabalho de design. |
-| Pedro Almeida | 25 Anos | Estudante de Engenharia de Software | Enfrenta problemas devido à falta de borrachas e carregadores, prejudicando seus estudos. | Garantir o acesso contínuo a estojos e papel para manter a fluidez em projetos e apresentações. |
-| Julia Oliveira | 23 Anos |Estudante de Arquitetura | Dificuldade em encontrar estojos e papel quando necessário para seus projetos acadêmicos. | Garantir acesso contínuo a itens necessários para projetos acadêmicos, melhorar a eficiência e evitar compras desnecessárias. |
+|NOME| IDADE |OCUPAÇÃO|PROBLEMAS/FRUSTAÇÕES|
+|----|-------|--------|--------------------|
+| Mariana Silva | 21 Anos |Estudante de Engenharia de Computação | A dificuldade em encontrar carregadores e cabos quando mais precisa. |
+| Lucas Pereira | 24 Anos | Estudante de Administração de Empresas | Não encontrar pen drives e adaptadores quando necessário, afetando suas apresentações. |
+| Ana Costa | 22 Anos |Estudante de Design Gráfico | Falta de adaptadores e corretivos, impactando sua capacidade de completar projetos a tempo. |
+| Pedro Almeida | 25 Anos | Estudante de Engenharia de Software | Enfrenta problemas devido à falta de borrachas e carregadores, prejudicando seus estudos. |
+| Julia Oliveira | 23 Anos |Estudante de Arquitetura | Dificuldade em encontrar estojos e papel quando necessário para seus projetos acadêmicos. |
 
 ## Histórias de Usuários
 
@@ -25,7 +25,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Mariana Silva  | Poder buscar e solicitar empréstimos de carregadores e cabos USB | Evitar a compra constante desses itens e garantir que estejam disponíveis quando necessário para os estudos. |
 |Lucas Pereira  | Ter acesso a pen drives e adaptadores para projetores. | Garantir que esses itens estejam disponíveis para suas apresentações e reuniões, evitando problemas de última hora. |
 |Ana Costa  | Ter acesso a adaptadores e corretivos. | Facilitar o acesso a esses itens para completar seus projetos de design a tempo, sem interrupções. |
-|Pedro Almeida  |  Ter acesso a borrachas e carregadores. | Evitar a falta desses itens essenciais para seus projetos de programação e garantir continuidade nos estudos. |
+|Pedro Almeida  |  Ter acesso a borrachas e carregadores. | Planejar seus estudos e projetos, garantindo que itens essenciais estejam disponíveis quando necessários. |
 |Julia Oliveira  | Ter acesso a estojos e papel para esboços. | Garantir que esses itens estejam sempre disponíveis para manter a fluidez em projetos acadêmicos e apresentações. |
 
 ## Modelagem do Processo de Negócio 
