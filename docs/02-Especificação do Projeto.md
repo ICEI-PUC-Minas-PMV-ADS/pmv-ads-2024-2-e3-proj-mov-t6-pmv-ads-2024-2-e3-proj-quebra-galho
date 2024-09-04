@@ -10,11 +10,11 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 |NOME| IDADE |OCUPAÇÃO|PROBLEMAS/FRUSTAÇÕES|
 |----|-------|--------|--------------------|
-| Mariana Silva | 21 Anos |Estudante de Engenharia de Computação | A dificuldade em encontrar carregadores e cabos quando mais precisa. |
-| Lucas Pereira | 24 Anos | Estudante de Administração de Empresas | Não encontrar pen drives e adaptadores quando necessário, afetando suas apresentações. |
-| Ana Costa | 22 Anos |Estudante de Design Gráfico | Falta de adaptadores e corretivos, impactando sua capacidade de completar projetos a tempo. |
-| Pedro Almeida | 25 Anos | Estudante de Engenharia de Software | Enfrenta problemas devido à falta de borrachas e carregadores, prejudicando seus estudos. |
-| Julia Oliveira | 23 Anos |Estudante de Arquitetura | Dificuldade em encontrar estojos e papel quando necessário para seus projetos acadêmicos. |
+| Mariana Silva | 21 Anos |Estudante de Engenharia de Computação | Frequentemente enfrenta a falta de carregadores e cabos USB, o que pode interromper seus estudos. |
+| Lucas Pereira | 24 Anos | Estudante de Administração de Empresas | Falta de canetas pode causar problemas durante provas. |
+| Ana Costa | 22 Anos |Estudante de Design Gráfico | Dificuldade em encontrar adaptadores quando necessário pode atrasar seus projetos de design. |
+| Pedro Almeida | 25 Anos | Estudante de Engenharia de Software | Faltar esses itens pode atrapalhar seus projetos. |
+| Julia Oliveira | 23 Anos |Estudante de Arquitetura | A falta de papel e grampeador pode dificultar a organização e apresentação de projetos. |
 
 ## Histórias de Usuários
 
@@ -22,11 +22,11 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Mariana Silva  | Poder buscar e solicitar empréstimos de carregadores e cabos USB | Evitar a compra constante desses itens e garantir que estejam disponíveis quando necessário para os estudos. |
-|Lucas Pereira  | Ter acesso a pen drives e adaptadores para projetores. | Garantir que esses itens estejam disponíveis para suas apresentações e reuniões, evitando problemas de última hora. |
-|Ana Costa  | Ter acesso a adaptadores e corretivos. | Facilitar o acesso a esses itens para completar seus projetos de design a tempo, sem interrupções. |
-|Pedro Almeida  |  Ter acesso a borrachas e carregadores. | Planejar seus estudos e projetos, garantindo que itens essenciais estejam disponíveis quando necessários. |
-|Julia Oliveira  | Ter acesso a estojos e papel para esboços. | Garantir que esses itens estejam sempre disponíveis para manter a fluidez em projetos acadêmicos e apresentações. |
+|Mariana Silva  | Ter acesso a carregadores e cabos USB | Garantir que esses itens estejam disponíveis durante os estudos e trabalhos acadêmicos.|
+|Lucas Pereira  | Ter acesso a caneta e corretivo. | Poder utilizar esses itens durante provas para garantir um bom desempenho. |
+|Ana Costa  | Ter acesso a adaptadores de tomada. | Facilitar o uso de equipamentos eletrônicos em seus projetos de design sem interrupções. |
+|Pedro Almeida  |  Ter acesso a lapiz e borracha. | Garantir que esses itens estejam disponíveis para anotações e ajustes em projetos de programação. |
+|Julia Oliveira  | Ter acesso a papel e grampeadore. | Manter a organização e a apresentação dos documentos acadêmicos e projetos. |
 
 ## Modelagem do Processo de Negócio 
 
