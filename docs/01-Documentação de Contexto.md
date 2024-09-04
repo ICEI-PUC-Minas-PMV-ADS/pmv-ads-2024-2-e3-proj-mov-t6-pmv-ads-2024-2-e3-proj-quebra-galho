@@ -1,13 +1,14 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+Vivemos em uma era de alta conectividade digital, mas a gestão de itens temporários do dia a dia ainda é ineficiente. Muitas vezes, as pessoas enfrentam dificuldades para acessar itens como carregadores ou cabos quando precisam, e soluções informais, como pedir emprestado a amigos, podem ser ineficazes e frustrantes. Além disso, o ciclo de compra e descarte de itens para uso esporádico contribui para desperdício e impacto ambiental negativo.
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
+A dificuldade em acessar itens temporários quando necessário é um problema comum, exacerbado pela falta de uma plataforma centralizada para facilitar o empréstimo e a troca de itens. Soluções informais são muitas vezes ineficazes e podem resultar em frustração e desperdício de tempo. A compra de novos itens para usos esporádicos também gera custos financeiros e ambientais desnecessários.
 
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
+O "Quebra Galho" busca resolver esses problemas ao oferecer uma plataforma digital que facilita o empréstimo e a busca de itens temporários, promovendo uma solução prática, econômica e sustentável.
+
+* Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
 
 > **Links Úteis**:
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
@@ -16,9 +17,12 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+O objetivo principal do projeto "Quebra Galho" é desenvolver um aplicativo que facilite o empréstimo e a busca de itens específicos que as pessoas frequentemente precisam em seu cotidiano. O aplicativo visa:
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
+Centralizar a Disponibilidade: Oferecer uma plataforma onde usuários podem listar itens disponíveis para empréstimo e verificar a disponibilidade de itens que precisam.
+1.Facilitar a Conexão: Facilitar a conexão entre pessoas que têm itens disponíveis e aquelas que precisam desses itens temporariamente.
+2.Reduzir o Desperdício: Minimizar o desperdício de tempo e recursos associados à busca e aquisição de itens temporários.
+3.Promover a Comunidade: Incentivar um espírito de colaboração e compartilhamento dentro de comunidades locais.
  
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
