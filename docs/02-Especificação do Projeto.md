@@ -10,12 +10,11 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 |NOME| IDADE |OCUPAÇÃO|PROBLEMAS/FRUSTAÇÕES|METAS|
 |----|-------|--------|--------------------|-----|
-| Mariana Silva | 21 Anos |Estudante de Engenharia de Computação | Frequentemente perde tempo procurando carregadores e cabos, dificuldade em manter esses itens organizados. | Facilitar o acesso a itens essenciais temporariamente e reduzir a necessidade de compra constante. |
-| Lucas Pereira | 24 Anos | Estudante de Administração de Empresas | Dificuldade em encontrar adaptadores e pen drives quando precisa, falta de espaço para armazenar esses itens. | Garantir acesso confiável a itens para apresentações e reuniões. |
-| Ana Costa | 22 Anos |Estudante de Design Gráfico | Necessidade constante de trocar cabos e adaptadores, dificuldade em encontrar os itens certos para cada projeto. | Ter acesso fácil a itens essenciais para suas atividades acadêmicas e trabalho freelance sem precisar comprar novos. |
-| Pedro Almeida | 25 Anos | Estudante de Engenharia de Software | Enfrenta interrupções frequentes devido à falta de carregadores ou adaptadores, o que afeta sua produtividade. | Acesso rápido e eficiente a itens necessários, reduzir interrupções nos estudos. |
-| Julia Oliveira | 23 Anos |Estudante de Arquitetura | Dificuldade em encontrar estojos de ferramentas e adaptadores quando necessário, falta de espaço para armazenar esses itens. | Garantir acesso contínuo a itens necessários para projetos acadêmicos, melhorar a eficiência e evitar compras desnecessárias. |
-| Ricardo Santos | 20 Anos | Estudante de Ciências Sociais | Problemas com a disponibilidade de adaptadores quando mais precisa, dificuldade em gerenciar esses itens para diferentes eventos. | Obter acesso rápido a itens essenciais para debates e seminários, garantir que eventos acadêmicos ocorram sem problemas técnicos. |
+| Mariana Silva | 21 Anos |Estudante de Engenharia de Computação | A dificuldade em encontrar carregadores e cabos quando mais precisa. | Garantir acesso rápido a carregadores e cabos USB sem ter que comprar novos constantemente. |
+| Lucas Pereira | 24 Anos | Estudante de Administração de Empresas | Não encontrar pen drives e adaptadores quando necessário, afetando suas apresentações. | Ter pen drives, adaptadores e grampeadores disponíveis para reuniões e apresentações sem imprevistos. |
+| Ana Costa | 22 Anos |Estudante de Design Gráfico | Falta de adaptadores e corretivos, impactando sua capacidade de completar projetos a tempo. | Facilitar o acesso a adaptadores e corretivos para manter a continuidade do trabalho de design. |
+| Pedro Almeida | 25 Anos | Estudante de Engenharia de Software | Enfrenta problemas devido à falta de borrachas e carregadores, prejudicando seus estudos. | Garantir o acesso contínuo a estojos e papel para manter a fluidez em projetos e apresentações. |
+| Julia Oliveira | 23 Anos |Estudante de Arquitetura | Dificuldade em encontrar estojos e papel quando necessário para seus projetos acadêmicos. | Garantir acesso contínuo a itens necessários para projetos acadêmicos, melhorar a eficiência e evitar compras desnecessárias. |
 
 ## Histórias de Usuários
 
@@ -23,12 +22,11 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Mariana Silva  | Poder buscar e solicitar empréstimos de carregadores e cabos USB | Evitar a compra constante desses itens e ter acesso rápido quando necessário. |
-|Lucas Pereira  | Ter uma funcionalidade para solicitar emprestados pen drives e adaptadores para projetores | Garantir que esses itens estejam disponíveis para suas apresentações e reuniões. |
-|Ana Costa  | Acessar e solicitar emprestados cabos de alimentação e adaptadores para softwares de design | Facilitar o acesso a itens necessários para seu trabalho acadêmico e freelance sem precisar comprar novos. |
-|Pedro Almeida  | Solicitar emprestados carregadores de laptop e adaptadores específicos para seus projetos | Manter a continuidade dos projetos e evitar interrupções devido à falta de itens essenciais. |
-|Julia Oliveira  | Pedir emprestados estojos de ferramentas e adaptadores para apresentações acadêmicas | Garantir que todos os itens necessários estejam disponíveis para suas apresentações e projetos acadêmicos. |
-|Ricardo Santos  | Solicitar emprestados adaptadores de tomada para debates e seminários | Garantir que os eventos acadêmicos ocorram sem problemas técnicos e ter os itens necessários à mão. |
+|Mariana Silva  | Poder buscar e solicitar empréstimos de carregadores e cabos USB | Evitar a compra constante desses itens e garantir que estejam disponíveis quando necessário para os estudos. |
+|Lucas Pereira  | Ter acesso a pen drives e adaptadores para projetores. | Garantir que esses itens estejam disponíveis para suas apresentações e reuniões, evitando problemas de última hora. |
+|Ana Costa  | Ter acesso a adaptadores e corretivos. | Facilitar o acesso a esses itens para completar seus projetos de design a tempo, sem interrupções. |
+|Pedro Almeida  |  Ter acesso a borrachas e carregadores. | Evitar a falta desses itens essenciais para seus projetos de programação e garantir continuidade nos estudos. |
+|Julia Oliveira  | Ter acesso a estojos e papel para esboços. | Garantir que esses itens estejam sempre disponíveis para manter a fluidez em projetos acadêmicos e apresentações. |
 
 ## Modelagem do Processo de Negócio 
 
