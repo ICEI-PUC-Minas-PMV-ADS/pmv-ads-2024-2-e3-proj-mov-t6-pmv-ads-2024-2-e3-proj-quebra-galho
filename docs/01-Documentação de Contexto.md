@@ -20,9 +20,12 @@ O "Quebra Galho" busca resolver esses problemas ao oferecer uma plataforma digit
 O objetivo principal do projeto "Quebra Galho" é desenvolver um aplicativo que facilite o empréstimo e a busca de itens específicos que as pessoas frequentemente precisam em seu cotidiano. O aplicativo visa:
 
 Centralizar a Disponibilidade: Oferecer uma plataforma onde usuários podem listar itens disponíveis para empréstimo e verificar a disponibilidade de itens que precisam.
-1.Facilitar a Conexão: Facilitar a conexão entre pessoas que têm itens disponíveis e aquelas que precisam desses itens temporariamente.
-2.Reduzir o Desperdício: Minimizar o desperdício de tempo e recursos associados à busca e aquisição de itens temporários.
-3.Promover a Comunidade: Incentivar um espírito de colaboração e compartilhamento dentro de comunidades locais.
+
+>1.Facilitar a Conexão: Facilitar a conexão entre pessoas que têm itens disponíveis e aquelas que precisam desses itens temporariamente.
+
+>2.Reduzir o Desperdício: Minimizar o desperdício de tempo e recursos associados à busca e aquisição de itens temporários.
+
+>3.Promover a Comunidade: Incentivar um espírito de colaboração e compartilhamento dentro de comunidades locais.
  
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
