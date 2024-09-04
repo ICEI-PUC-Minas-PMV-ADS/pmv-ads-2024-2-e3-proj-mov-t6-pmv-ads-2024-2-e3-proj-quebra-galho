@@ -23,17 +23,12 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
+|Mariana Silva  | Poder buscar e solicitar empréstimos de carregadores e cabos USB | Evitar a compra constante desses itens e ter acesso rápido quando necessário. |
+|Lucas Pereira  | Ter uma funcionalidade para solicitar emprestados pen drives e adaptadores para projetores | Garantir que esses itens estejam disponíveis para suas apresentações e reuniões. |
+|Ana Costa  | Acessar e solicitar emprestados cabos de alimentação e adaptadores para softwares de design | Facilitar o acesso a itens necessários para seu trabalho acadêmico e freelance sem precisar comprar novos. |
+|Pedro Almeida  | Solicitar emprestados carregadores de laptop e adaptadores específicos para seus projetos | Manter a continuidade dos projetos e evitar interrupções devido à falta de itens essenciais. |
+|Julia Oliveira  | Pedir emprestados estojos de ferramentas e adaptadores para apresentações acadêmicas | Garantir que todos os itens necessários estejam disponíveis para suas apresentações e projetos acadêmicos. |
+|Ricardo Santos  | Solicitar emprestados notebooks e adaptadores de tomada para debates e seminários | Garantir que os eventos acadêmicos ocorram sem problemas técnicos e ter os itens necessários à mão. |
 
 ## Modelagem do Processo de Negócio 
 
