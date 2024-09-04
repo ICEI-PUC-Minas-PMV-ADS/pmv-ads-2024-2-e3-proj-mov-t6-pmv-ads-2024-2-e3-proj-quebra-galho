@@ -8,22 +8,8 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
-
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
-
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
-
 |NOME| IDADE |OCUPAÇÃO|HISTÓRIA|PROBLEMAS/FRUSTAÇÕES|METAS|
-|----|-------|--------|--------|--------------------|-----|
+|----|-------|--------|----------------|--------------------|-----|
 | Mariana Silva | 21 Anos |Estudante de Engenharia de Computação | Mariana está no terceiro ano do curso e frequentemente precisa de itens como carregadores e cabos USB para seus dispositivos. | Frequentemente perde tempo procurando carregadores e cabos, dificuldade em manter esses itens organizados. | Facilitar o acesso a itens essenciais temporariamente e reduzir a necessidade de compra constante. |
 | Lucas Pereira | 24 Anos | Estudante de Administração de Empresas | Lucas participa regularmente de reuniões e precisa de itens como pen drives e adaptadores para projetores. | Dificuldade em encontrar adaptadores e pen drives quando precisa, falta de espaço para armazenar esses itens. | Garantir acesso confiável a itens para apresentações e reuniões. |
 | Ana Costa | 22 Anos |Estudante de Design Gráfico | Ana utiliza diversos itens como cabos de alimentação e adaptadores para seu trabalho com softwares de design. | Necessidade constante de trocar cabos e adaptadores, dificuldade em encontrar os itens certos para cada projeto. | Ter acesso fácil a itens essenciais para suas atividades acadêmicas e trabalho freelance sem precisar comprar novos. |
