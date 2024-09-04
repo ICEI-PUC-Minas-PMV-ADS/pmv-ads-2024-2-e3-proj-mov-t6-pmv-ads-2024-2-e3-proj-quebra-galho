@@ -24,7 +24,12 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
 
 |NOME| IDADE |OCUPAÇÃO|PROBLEMAS/FRUSTAÇÕES|METAS|
 |----|-------|--------|--------------------|-----|
-| Escreva aqui  | Escreva aqui |Escreva aqui | Escreva aqui | Escreva aqui |
+| Mariana Silva | 21 Anos |Estudante de Engenharia de Computação | Mariana está no terceiro ano do curso e frequentemente precisa de itens como carregadores e cabos USB para seus dispositivos. | Facilitar o acesso a itens essenciais temporariamente e reduzir a necessidade de compra constante. |
+| Lucas Pereira | 24 Anos | Estudante de Administração de Empresas | Lucas participa regularmente de reuniões e precisa de itens como pen drives e adaptadores para projetores. | Garantir acesso confiável a itens para apresentações e reuniões. |
+| Ana Costa | 22 Anos |Estudante de Design Gráfico | Ana utiliza diversos itens como cabos de alimentação e adaptadores para seu trabalho com softwares de design. | Ter acesso fácil a itens essenciais para suas atividades acadêmicas e trabalho freelance sem precisar comprar novos. |
+| Pedro Almeida | 25 Anos | Estudante de Engenharia de Software | Pedro usa itens como carregadores de laptop, adaptadores e cabos para seus projetos de programação e desenvolvimento de software. | Acesso rápido e eficiente a itens necessários, reduzir interrupções nos estudos. |
+| Julia Oliveira | 23 Anos |Estudante de Arquitetura | Julia usa itens como estojos de ferramentas e adaptadores para dispositivos de apresentação em seus projetos acadêmicos. | Garantir acesso contínuo a itens necessários para projetos acadêmicos, melhorar a eficiência e evitar compras desnecessárias. |
+| Ricardo Santos | 20 Anos | Estudante de Ciências Sociais | Ricardo participa de debates e seminários e precisa de itens como notebooks e adaptadores de tomada. | Obter acesso rápido a itens essenciais para debates e seminários, garantir que eventos acadêmicos ocorram sem problemas técnicos. |
 
 ## Histórias de Usuários
 
