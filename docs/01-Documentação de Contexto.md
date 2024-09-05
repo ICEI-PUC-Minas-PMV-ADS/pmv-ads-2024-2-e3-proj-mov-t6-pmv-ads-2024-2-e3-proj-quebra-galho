@@ -17,18 +17,12 @@ O "Quebra Galho" busca resolver esses problemas ao oferecer uma plataforma digit
 
 ## Objetivos
 
-O objetivo principal do projeto "Quebra Galho" é desenvolver um aplicativo que facilite o empréstimo e a busca de itens específicos que as pessoas frequentemente precisam em seu cotidiano. O aplicativo visa:
+"O objetivo principal da aplicação é proporcionar uma solução prática e acessível para os estudantes que precisam de materiais temporariamente, promovendo uma cultura de colaboração e sustentabilidade dentro do ambiente escolar e universitário. A plataforma busca:
 
-Centralizar a Disponibilidade: Oferecer uma plataforma onde usuários podem listar itens disponíveis para empréstimo e verificar a disponibilidade de itens que precisam.
-
->1.Facilitar a Conexão: Facilitar a conexão entre pessoas que têm itens disponíveis e aquelas que precisam desses itens temporariamente.
-
->2.Reduzir o Desperdício: Minimizar o desperdício de tempo e recursos associados à busca e aquisição de itens temporários.
-
->3.Promover a Comunidade: Incentivar um espírito de colaboração e compartilhamento dentro de comunidades locais.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Facilitar o empréstimo e a troca de itens entre os alunos de forma organizada.
+Evitar gastos desnecessários e reduzir o desperdício de materiais, promovendo o uso compartilhado.
+Incentivar a socialização e a ajuda mútua dentro da comunidade acadêmica.
+Proporcionar um sistema seguro e eficiente para que os alunos possam emprestar ou devolver itens com confiança."
 
 ## Justificativa
 
@@ -40,13 +34,4 @@ Além disso, o projeto visa resolver ineficiências nas soluções informais de 
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
-
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+"O público-alvo da aplicação são alunos de escolas e universidades que frequentemente precisam de pequenos itens durante seu dia a dia acadêmico, como canetas, lápis, carregadores e cabos USB. A aplicação visa facilitar a interação entre estudantes, promovendo o empréstimo e compartilhamento de materiais que, muitas vezes, são esquecidos ou necessários de última hora. Além disso, a plataforma pode ser usada por qualquer estudante que deseje otimizar o uso coletivo de recursos dentro da comunidade acadêmica."
