@@ -32,12 +32,11 @@ Centralizar a Disponibilidade: Oferecer uma plataforma onde usuários podem list
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+O "Quebra Galho" surge da observação de uma lacuna no cotidiano das pessoas: a dificuldade em acessar rapidamente itens de uso temporário, como carregadores, cabos ou ferramentas, sem a necessidade de comprá-los. Essa dificuldade não apenas resulta em frustrações diárias, mas também contribui para problemas ambientais e financeiros, devido à compra e descarte frequente de itens que são utilizados apenas esporadicamente.
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+A motivação para o desenvolvimento desta aplicação está enraizada na busca por soluções mais práticas e sustentáveis para o compartilhamento de recursos, incentivando a economia colaborativa. Ao criar uma plataforma centralizada que facilita o empréstimo de itens entre pessoas, espera-se reduzir o consumo desnecessário, prolongar o ciclo de vida útil de produtos e promover um estilo de vida mais econômico e sustentável.
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+Além disso, o projeto visa resolver ineficiências nas soluções informais de empréstimo, que frequentemente resultam em perda de tempo e frustrações, oferecendo uma alternativa digital, moderna e acessível, que pode ser facilmente integrada ao cotidiano das pessoas. O além de impactar positivamente a comunidade, promovendo valores como sustentabilidade, colaboração e uso consciente dos recursos.
 
 ## Público-Alvo
 
