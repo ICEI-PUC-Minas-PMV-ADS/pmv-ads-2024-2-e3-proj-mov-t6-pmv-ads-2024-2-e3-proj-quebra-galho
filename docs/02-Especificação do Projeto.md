@@ -74,7 +74,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-007| O sistema deve permitir que o usuário edite seu próprio perfil.   | ALTA |
 |RF-008| Ao finalizar um empréstimo, o sistema deve permitir que os usuários avaliem uns aos outros com uma avaliação positiva ou negativa. Caso seja uma negativa, o usuário deve informar um motivo.   | ALTA |
 |RF-009| O sistema deve mostrar uma notificação quando existir um ou mais pedidos ativos e/ou solicitações de amizade.    | BAIXA |
-|RF-010| O sistema, durante as datas comemorativas (como Natal, Halloween, Páscoa), deve ter o tema do leiaute alterado, se adaptando a cada uma delas.   | BAIXA |
+
 
 ### Requisitos não Funcionais
 
