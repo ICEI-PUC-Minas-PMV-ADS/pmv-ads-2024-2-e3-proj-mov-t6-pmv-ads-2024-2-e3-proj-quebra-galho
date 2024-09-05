@@ -81,7 +81,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
 |RNF-001| O carregamento da tela não deve demorar mais que 1,5 segundos. | ALTA | 
-|RNF-002| Os servidores devem estar operantes no mínimo das 6:00 até as 00:00. |  BAIXA | 
+|RNF-002| Os servidores devem estar operantes durante 24h por dia |  BAIXA | 
 |RNF-003| O sistema deve armazenar os dados de cadastro e login do usuário, além das relações de amizade entre os usuários. |  ALTA | 
 |RNF-004| O sistema deverá ter uma funcionalidade que possibilitará o usuário que fez o pedido e o usuário que atenderá o pedido se comunicarem, através de um chat externo, sendo esse o WhatsApp. |  ALTA | 
 
