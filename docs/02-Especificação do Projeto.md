@@ -8,11 +8,11 @@ A definição do problema e os pontos mais relevantes a serem tratados neste pro
 
 |FOTO |NOME| IDADE |OCUPAÇÃO|PROBLEMAS/FRUSTAÇÕES|
 |-------|----|-------|--------|--------------------|
-| ![Mariana Silva](img/Personas/MarianaSilva.jpg) | Mariana Silva | 21 Anos |Estudante de Engenharia de Computação | Frequentemente enfrenta a falta de carregadores e cabos USB, o que pode interromper seus estudos. |
-| ![Lucas Pereira](img/Personas/LucasPereira.jpg) | Lucas Pereira | 24 Anos | Estudante de Administração de Empresas | Falta de canetas pode causar problemas durante provas. |
-| ![Ana Costa](img/Personas/AnaCosta.jpg) | Ana Costa | 22 Anos |Estudante de Design Gráfico | Dificuldade em encontrar adaptadores quando necessário pode atrasar seus projetos de design. |
-| ![Pedro Almeida](img/Personas/PedroAlmeida.jpg) | Pedro Almeida | 25 Anos | Estudante de Engenharia de Software | Faltar esses itens pode atrapalhar seus projetos. |
-| ![Julia Oliveira](img/Personas/JuliaOliveira.jpg) | Julia Oliveira | 23 Anos |Estudante de Arquitetura | A falta de papel e grampeador pode dificultar a organização e apresentação de projetos. |
+| <img src="img/Personas/MarianaSilva.jpg" alt="Mariana Silva" width="200"> | Mariana Silva | 21 Anos |Estudante de Engenharia de Computação | Frequentemente enfrenta a falta de carregadores e cabos USB, o que pode interromper seus estudos. |
+| <img src="img/Personas/LucasPereira.jpg" alt="Lucas Pereira" width="200"> | Lucas Pereira | 24 Anos | Estudante de Administração de Empresas | Falta de canetas pode causar problemas durante provas. |
+| <img src="img/Personas/AnaCosta.jpg" alt="Ana Costa" width="200"> | Ana Costa | 22 Anos |Estudante de Design Gráfico | Dificuldade em encontrar adaptadores quando necessário pode atrasar seus projetos de design. |
+| <img src="img/Personas/PedroAlmeida.jpg" alt="Pedro Almeida" width="200"> | Pedro Almeida | 25 Anos | Estudante de Engenharia de Software | Faltar esses itens pode atrapalhar seus projetos. |
+| <img src="img/Personas/JuliaOliveira.jpg" alt="Julia Oliveira" width="200"> | Julia Oliveira | 23 Anos |Estudante de Arquitetura | A falta de papel e grampeador pode dificultar a organização e apresentação de projetos. |
 
 ## Histórias de Usuários
 
