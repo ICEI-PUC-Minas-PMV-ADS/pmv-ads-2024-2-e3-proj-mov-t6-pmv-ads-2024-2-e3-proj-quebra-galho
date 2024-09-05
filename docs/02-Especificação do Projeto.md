@@ -2,7 +2,7 @@
 
 <span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
-A definição do problema e os pontos mais relevantes a serem tratados neste projeto foram traçados com base não só nas experiências pessoais dos integrantes do grupo, relacionadas ao tema, mas também em relatos cotidianos de pessoas próximas. As informações obtidas nesse processo foram organizados em personas e histórias de usuários.
+A definição do problema e os pontos mais relevantes a serem tratados neste projeto foram traçados com base nas experiências pessoais dos integrantes do grupo, relacionadas ao tema, e nos relatos de pessoas próximas. As informações descritas nessa seção estão organizados em personas e histórias de usuários.
 
 ## Personas
 
@@ -16,7 +16,7 @@ A definição do problema e os pontos mais relevantes a serem tratados neste pro
 
 ## Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+Com base na análise das personas foram identificadas as seguintes histórias de usuários:
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
