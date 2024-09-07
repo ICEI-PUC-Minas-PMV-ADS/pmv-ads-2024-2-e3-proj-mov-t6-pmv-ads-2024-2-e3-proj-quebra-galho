@@ -164,7 +164,8 @@ O gerenciamento adequado de tarefas contribuirá para que o projeto alcance alto
 
 ## Gestão de Orçamento
 
-- Recursos Humanos: Considerando um grupo de desenvolvedores trabalhando por 1h por dia, 5 dias por semana até a conclusão do projeto (23/06/23 -> 74 dias úteis). Cada um com o custo de R$30,00/hora. Obs: Todos os papéis Do Scrum estão dentro desse time.
+- Recursos Humanos: Considerando um grupo de desenvolvedores trabalhando por 1h por dia, 5 dias por semana até a conclusão do projeto (Período quinta 19 setembro 2024
+sábado 30 novembro 2024 -> 74 dias úteis). Cada um com o custo de R$30,00/hora. Obs: Todos os papéis Do Scrum estão dentro desse time.
 - Os custos de hardware são aqueles de depreciação, manutenção dos equipamentos dos colaboradores, bem como o custo de uma máquina virtual para armazenamento de arquivos e realização de testes.
 - Os custos de rede são aqueles necessários para realização do projeto, não levando em conta a manutenção do mesmo após entrega do produto, que será por conta do cliente que o comercializará.
 - Softwares considerados foram aqueles instalados nas máquinas dos funcionários para realização do projeto
