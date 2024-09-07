@@ -159,6 +159,7 @@ O gráfico de Gantt ou diagrama de Gantt também é uma ferramenta visual utiliz
 ## Gerenciamento de Equipe
 
 O gerenciamento da equipe está sendo realizado pelo project do Github. Através dele a gestão de tarefas, de pessoas e de competências estão sendo desenvolvidas de acordo com os prazos a entrega do projeto.
+
 ![image](https://github.com/user-attachments/assets/73c19f2f-455e-4f52-b447-672b1485e708)
 
 
