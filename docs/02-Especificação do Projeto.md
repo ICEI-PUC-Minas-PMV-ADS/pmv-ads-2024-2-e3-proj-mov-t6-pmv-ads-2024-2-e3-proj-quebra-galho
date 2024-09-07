@@ -104,16 +104,14 @@ todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 
 O projeto está restrito pelos itens apresentados na tabela a seguir.
 
-|ID| Restrição                                             |
-|--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
-
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
-
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
+|ID| Restrição                                             | Referência aos Requisitos |
+|--|-------------------------------------------------------|---------------------------|
+|01| A plataforma deve utilizar um serviço de chat externo, como o WhatsApp. | RF-005, RNF-004. |
+|02| A funcionalidade de adicionar amigos deve depender exclusivamente de APIs de terceiros para persistência de dados. | RF-006 e RNF-003 |
+|03| A solução deve ser compatível com dispositivos móveis (iOS e Android)  e ter tempo de resposta rápido. | RNF-001 |
+|04| O desenvolvimento deve ser concluído em 4 meses, abrangendo todas as funcionalidades de alta prioridade. | RF-001 a RF-008 |
+|05| Todos os dados de usuários (cadastro, login, amizade) devem ser armazenados de forma segura e criptografada. | RNF-003 |
+|06| Todas as funcionalidades que envolvem o gerenciamento de dados do usuário devem ser integradas por meio de APIs públicas. | RF-001 e RNF-003 |
 
 ## Diagrama de Casos de Uso
 
