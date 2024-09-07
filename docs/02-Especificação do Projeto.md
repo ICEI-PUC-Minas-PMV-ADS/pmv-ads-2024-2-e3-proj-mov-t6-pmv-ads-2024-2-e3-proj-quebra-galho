@@ -158,9 +158,24 @@ O gráfico de Gantt ou diagrama de Gantt também é uma ferramenta visual utiliz
 
 ## Gerenciamento de Equipe
 
-O gerenciamento adequado de tarefas contribuirá para que o projeto alcance altos níveis de produtividade. Por isso, é fundamental que ocorra a gestão de tarefas e de pessoas, de modo que os times envolvidos no projeto possam ser facilmente gerenciados. 
+O gerenciamento da equipe está sendo realizado pelo project do Github. Através dele a gestão de tarefas, de pessoas e de competências estão sendo desenvolvidas de acordo com os prazos a entrega do projeto.
+![image](https://github.com/user-attachments/assets/73c19f2f-455e-4f52-b447-672b1485e708)
 
-![Simple Project Timeline](img/02-project-timeline.png)
+
+#### Etiquetas: Apresenta o tipo daquele produto no desenvolvimento Elas são dividias (até o momento 03/03/23) em:
+
+request - backlog
+In Progress - em desenvolvimento
+Done - concluido desenvolvimento
+Reviewing e tests - review e testes
+Concluded - Depois dos testes
+
+
+#### Elas são dividas em:
+
+P0: Prioridade Alta
+P1: Prioridade Média
+P2: Prioridade Baixa
 
 ## Gestão de Orçamento
 
