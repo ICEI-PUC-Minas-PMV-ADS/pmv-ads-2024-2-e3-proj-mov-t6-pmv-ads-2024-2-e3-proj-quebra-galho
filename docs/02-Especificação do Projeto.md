@@ -164,18 +164,18 @@ O gerenciamento da equipe está sendo realizado pelo project do Github. Através
 
 #### Etiquetas: Apresenta o tipo daquele produto no desenvolvimento Elas são dividias (até o momento 03/03/23) em:
 
-request - backlog
-In Progress - em desenvolvimento
-Done - concluido desenvolvimento
-Reviewing e tests - review e testes
-Concluded - Depois dos testes
+- request - backlog
+- In Progress - em desenvolvimento
+- Done - concluido desenvolvimento
+- Reviewing e tests - review e testes
+- Concluded - Depois dos testes
 
 
 #### Elas são dividas em:
 
-P0: Prioridade Alta
-P1: Prioridade Média
-P2: Prioridade Baixa
+- P0: Prioridade Alta
+- P1: Prioridade Média
+- P2: Prioridade Baixa
 
 ## Gestão de Orçamento
 
