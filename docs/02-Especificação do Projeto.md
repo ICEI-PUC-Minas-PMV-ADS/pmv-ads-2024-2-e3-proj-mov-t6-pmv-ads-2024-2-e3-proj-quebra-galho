@@ -104,14 +104,15 @@ todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 
 O projeto está restrito pelos itens apresentados na tabela a seguir.
 
-|ID| Restrição                                             | Referência aos Requisitos |
-|--|-------------------------------------------------------|---------------------------|
-|01| A plataforma deve utilizar um serviço de chat externo, como o WhatsApp. | RF-005, RNF-004. |
-|02| A funcionalidade de adicionar amigos deve depender exclusivamente de APIs de terceiros para persistência de dados. | RF-006 e RNF-003 |
-|03| A solução deve ser compatível com dispositivos móveis (iOS e Android)  e ter tempo de resposta rápido. | RNF-001 |
-|04| O desenvolvimento deve ser concluído em 4 meses, abrangendo todas as funcionalidades de alta prioridade. | RF-001 a RF-008 |
-|05| Todos os dados de usuários (cadastro, login, amizade) devem ser armazenados de forma segura e criptografada. | RNF-003 |
-|06| Todas as funcionalidades que envolvem o gerenciamento de dados do usuário devem ser integradas por meio de APIs públicas. | RF-001 e RNF-003 |
+|ID| Restrição                                             | Descrição |
+|--|-------------------------------------------------------|-----------|
+|01| Prazo de Entrega | O desenvolvimento deve ser concluído em 4 meses, abrangendo todas as funcionalidades de alta prioridade. |
+|02| Limitação de Backend | A funcionalidade de adicionar amigos deve depender exclusivamente de APIs de terceiros para persistência de dados. | 
+|03| Limitação de Tecnologia Frontend | A solução deve ser compatível com dispositivos móveis (iOS e Android)  e ter tempo de resposta rápido. | 
+|04| Armazenamento Seguro de Dados | Todos os dados de usuários (cadastro, login, amizade) devem ser armazenados de forma segura e criptografada. | 
+|05| Disponibilidade de Servidores |Os servidores usados para o backend devem estar operantes 24h por dia, garantindo disponibilidade contínua. | 
+|06| Integração com Chat Externo | Todas as funcionalidades que envolvem o gerenciamento de dados do usuário devem ser integradas por meio de APIs públicas. | 
+|07| Notificações em Tempo Real | O sistema deve ser capaz de enviar notificações push em tempo real para o usuário quando houver pedidos ativos ou solicitações de amizade. |
 
 ## Diagrama de Casos de Uso
 
