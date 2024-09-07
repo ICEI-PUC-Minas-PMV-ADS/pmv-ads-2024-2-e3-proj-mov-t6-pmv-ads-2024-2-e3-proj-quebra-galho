@@ -164,6 +164,11 @@ O gerenciamento adequado de tarefas contribuirá para que o projeto alcance alto
 
 ## Gestão de Orçamento
 
-O processo de determinar o orçamento do projeto é uma tarefa que depende, além dos produtos (saídas) dos processos anteriores do gerenciamento de custos, também de produtos oferecidos por outros processos de gerenciamento, como o escopo e o tempo.
+- Recursos Humanos: Considerando um grupo de desenvolvedores trabalhando por 1h por dia, 5 dias por semana até a conclusão do projeto (23/06/23 -> 74 dias úteis). Cada um com o custo de R$30,00/hora. Obs: Todos os papéis Do Scrum estão dentro desse time.
+- Os custos de hardware são aqueles de depreciação, manutenção dos equipamentos dos colaboradores, bem como o custo de uma máquina virtual para armazenamento de arquivos e realização de testes.
+- Os custos de rede são aqueles necessários para realização do projeto, não levando em conta a manutenção do mesmo após entrega do produto, que será por conta do cliente que o comercializará.
+- Softwares considerados foram aqueles instalados nas máquinas dos funcionários para realização do projeto
+- Serviços indiretos considerados foram: água, luz, internet, telefone. Serviços terceirizados diretos não estão previstos.
 
-![Orçamento](img/02-orcamento.png)
+![image](https://github.com/user-attachments/assets/f81df140-7375-4428-9b40-08ae27ae1003)
+
