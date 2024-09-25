@@ -12,7 +12,7 @@ Definição de como o software é estruturado em termos dos componentes que faze
 
 ## Modelo ER
 
-<img src="img/DiagramaER.jpeg" alt="Modelo ER">
+<img src="img/DiagramaER.png" alt="Modelo ER">
 
 ## Esquema Relacional
 
